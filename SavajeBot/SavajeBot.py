@@ -150,4 +150,5 @@ async def top(interaction: discord.Interaction, canale: discord.TextChannel = No
     await interaction.response.send_message(embed=embed)
 
 # Avvia il bot 
-bot.run("MTM3NTQ2MTI5ODE1Mzk4NDA0Mw.GWAAVT.pzjRkWOGb6wkQVEJqEoXZjTcXhdtwyLFHRLTDE")
+bot.run("MTM3NTQ2MTI5ODE1Mzk4NDA0Mw.G_HPN1.R-I5L2qk-HStdsWhD1Zq5FsR0cd3ORoYYuojNc")
+
